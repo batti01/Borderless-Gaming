@@ -7,7 +7,9 @@ The project is open source under the [GNU GENERAL PUBLIC LICENSE](https://github
 
 
 ![Image](http://i.imgur.com/5sv2WEM.png)
+
 ![Image](http://i.imgur.com/JZ1malK.jpg)
+
 ![Image](http://i.imgur.com/kRmOysJ.jpg)
 
 ## How to install and run Borderless-Gaming
