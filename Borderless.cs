@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -101,11 +101,11 @@ namespace BorderlessGaming
             PopulateList();
             ListenForGameLaunch();
 
-            AppDomain.CurrentDomain.FirstChanceException += (sender, args) =>
+          /*  AppDomain.CurrentDomain.FirstChanceException += (sender, args) =>
             {
                 MessageBox.Show(args.Exception.Message, "FirstChanceException");
                 throw args.Exception;
-            };
+            };*/
         }
 
 
@@ -168,7 +168,7 @@ namespace BorderlessGaming
                     break;
                 }
 
-                Thread.Sleep(1000);
+                Thread.Sleep(9000);
               
          
             }
